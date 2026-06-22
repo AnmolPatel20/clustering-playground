@@ -33,7 +33,6 @@ Clustering-Playground/
 │
 ├── dbscan/                     # Coming soon
 ├── hierarchical/               # Coming soon
-├── gaussian_mixture/           # Coming soon
 └── README.md
 ```
 
