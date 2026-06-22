@@ -45,7 +45,6 @@ Clustering-Playground/
 | 1 | K-Means Clustering | `kmeans/kmeans_clustering.ipynb` | ✅ Done |
 | 2 | DBSCAN | `dbscan/` | 🔜 Coming Soon |
 | 3 | Hierarchical / Agglomerative | `hierarchical/` | 🔜 Coming Soon |
-| 4 | Gaussian Mixture Models | `gaussian_mixture/` | 🔜 Coming Soon |
 
 ---
 
