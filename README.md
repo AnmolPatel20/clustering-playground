@@ -71,13 +71,13 @@ K-Means partitions data into K groups by minimizing within-cluster variance. It'
 ### Results
 
 <p align="center">
-  <img src="kmeans/images/elbow_curve.png" alt="Elbow Curve" width="45%"/>
+  <img src="K-Means/images/elbow_curve.png" alt="Elbow Curve" width="30%"/>
   &nbsp;&nbsp;
-  <img src="kmeans/images/silhouette_plot.png" alt="Silhouette Score" width="45%"/>
+  <img src="K-Means/images/silhouette_plot.png" alt="Silhouette Score" width="30%"/>
 </p>
 
 <p align="center">
-  <img src="kmeans/images/kmeans_clusters.png" alt="K-Means Clusters" width="60%"/>
+  <img src="K-Means/images/kmeans_clusters.png" alt="K-Means Clusters" width="50%"/>
 </p>
 
 ---
